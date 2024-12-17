@@ -45,7 +45,27 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
-![Screenshot 2024-12-04 184214](https://github.com/user-attachments/assets/c0c20ede-abc2-46c5-87f5-95ec636a8223)
+module syn_counter(out,clk,rst);
+
+input clk,rst;
+
+output reg [3:0]out;
+
+always @ (posedge clk)
+
+begin
+
+   if(rst)
+   
+     out<=0;
+   
+   else 
+   
+     out <= out+1;
+
+end
+
+endmodule
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
