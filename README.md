@@ -81,7 +81,8 @@ Developed by:CH.Dinesh Kumar RegisterNumber:24000305
 **TIMING DIAGRAM FOR IP COUNTER**
 
 
-![Screenshot 2024-12-04 184226](https://github.com/user-attachments/assets/8ca8c338-2e29-48d2-8478-0dfc28fb9e9d)
+![399439504-24f3596b-bb30-4404-8bc7-3d21f9e0d16b](https://github.com/user-attachments/assets/2ff26c64-1281-4c77-8365-d54806d97d48)
+
 
 
 **TRUTH TABLE**
